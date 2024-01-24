@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Doug Trocino @dtrocino
 - 👀 I’m interested in 
-- 🌱 I’m currently honing my skills on Java and Spring Boot
+- 🌱 I’m currently honing my skills on Rust and .NET C#
 - 📫 How to reach me - dtrocino@gmail.com
 
 <!---
